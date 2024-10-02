@@ -3,9 +3,10 @@ title: Home
 layout: home
 ---
 
-This is [post]
+Hope of the world is from computation and this is a journey to reframe cloud computing. 
 
+[Introduction]( /doc/introduction)
 
 ---
 
-[intro]: /doc/post
+[Introduction]: /doc/introduction
