@@ -1,6 +1,7 @@
 ---
 title: Introuction
 layout: post
+nav_order: 1
 ---
 ## What is the hope of the world? 
 
@@ -13,7 +14,7 @@ Therefore, the hope of world come from computing and  is controlled by it too.
 ## What is cloud computing? 
 
 
-The word "cloud" here is not related to the literal "cloud", but it refers to the Internet. It is hard to seperate a cloud from another cloud, because cloud can easily become one in the sky. Cloud computing work in the same way that it connects the computing resources in different locations and then provide services as one resources
+The word "cloud" here is not related to the literal "cloud", but it refers to the Internet. It is hard to seperate a cloud from another cloud, because cloud can easily become one in the sky. Cloud computing work in the same way that it connects the computing resources in different locations and then provide services as one resource.
 
 The fundamental change of cloud computing is not only the new way of arranging computing resources, but also redefining the idea to use resources. It become a utility which can be easier to use for everyone on-demand to achieve their goals in digital world with manageable cost. It satisfy the adaptive and rapid changing application development lifecycle.
 

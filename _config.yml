@@ -4,3 +4,8 @@ theme: just-the-docs
 
 url: https://wenyanzhu.github.io/noteaws
 
+aux_links_new_tab: false
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.3.0"
