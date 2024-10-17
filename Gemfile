@@ -6,4 +6,4 @@ gem "jekyll", "~> 4.3.4" # installed by `gem jekyll`
 gem "just-the-docs", "0.10.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-gem "sass-embedded", "~> 1.78.0"
+gem "sass-embedded", "~> 1.80.1"
